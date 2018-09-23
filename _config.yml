@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Yunjung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Be the Developer, First step =)"
+  bio              : "Be the Developer, \n this is first step =)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
