@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "소소한 "
 title_separator          : "-"
 name                     : "Your Name"
 description              : "An amazing website."
@@ -103,9 +103,7 @@ analytics:
 author:
   name             : "Yunjung"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Be the Developer =)"
-  location         : "Somewhere"
-  email            :
+  bio              : "Be the Developer, First step =)"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
